@@ -18,7 +18,7 @@ Deploy it after editing main.py on tg_bot section. Don't join support group for 
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Avishekbhattacharjee/ELIZABETH)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harrykerrywadly/Harita-Robot)
 
 ### Configuration
 
